@@ -12,3 +12,5 @@ You can download [Android Studio](https://developer.android.com/studio)
 #### Android Studio Installation Guide
  
 You can install [Android Studio Installation Guide](https://developer.android.com/studio/install)
+
+<video src="https://developer.android.com/studio/videos/studio-install-windows.mp4"></video>
