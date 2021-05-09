@@ -11,7 +11,7 @@ import android.widget.TextView;
 
 public class HomeActivity extends AppCompatActivity {
 
-//    TextView tvEmail,tvName;
+    TextView tvEmail,tvName;
 
     Button btnSetTime;
     EditText edttime;
@@ -21,16 +21,16 @@ public class HomeActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
 
-//        // find id
-//        tvEmail = findViewById(R.id.email);
-//        tvName = findViewById(R.id.name);
-//
-//        Intent intent = getIntent();
-//        String email = intent.getStringExtra("Email");
-//        String name = intent.getStringExtra("name");
-//
-//        tvEmail.setText(email);
-//        tvName.setText(name);
+        // find id
+        tvEmail = findViewById(R.id.email);
+        tvName = findViewById(R.id.name);
+
+        Intent intent = getIntent();
+        String email = intent.getStringExtra("Email");
+        String name = intent.getStringExtra("name");
+
+        tvEmail.setText(email);
+        tvName.setText(name);
 
         btnSetTime = findViewById(R.id.setTimer);
         edttime = findViewById(R.id.addTime);

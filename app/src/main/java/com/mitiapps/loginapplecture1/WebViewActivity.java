@@ -16,6 +16,6 @@ public class WebViewActivity extends AppCompatActivity {
 
         webView = findViewById(R.id.mywebView);
 
-        webView.loadUrl("https://swl-cms.comsats.edu.pk:8092/");
+        webView.loadUrl("https://github.com/Zaryab-Programmer");
     }
 }
