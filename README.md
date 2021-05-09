@@ -27,3 +27,16 @@ You can install [Android Studio Installation Guide](https://developer.android.co
 - Environment Setup – Practical
 - First Project – Practical
 - Project Main Files
+<hr>
+
+##### Lecture 2
+
+- UI Layouts
+- UI Controls
+- Widget
+- Widget Attributes
+- Making Toasts
+- Signup Screen – Practical
+<hr>
+
+
