@@ -68,6 +68,9 @@ You can install [Android Studio Installation Guide](https://developer.android.co
 - Count Down App – Practical
 <hr>
 
+##### Lecture 5
 
-
-
+- Spinner
+- ScrollView
+- SearchView
+- SearchView – Practical
