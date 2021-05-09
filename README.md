@@ -14,7 +14,7 @@ You can download [Android Studio](https://developer.android.com/studio)
 You can install [Android Studio Installation Guide](https://developer.android.com/studio/install)
 
 
-### Android Lecture
+## Android Lecture
 
 ##### Lecture 1
 
@@ -37,6 +37,16 @@ You can install [Android Studio Installation Guide](https://developer.android.co
 - Widget Attributes
 - Making Toasts
 - Signup Screen – Practical
+<hr>
+
+##### Lecture 3
+
+- Communicating with Intents
+- Type of Intents
+- Passing Data between Activities
+- Relative Layout – Practical
+- Intents – Practical
+- Attractive Design – Practical
 <hr>
 
 
