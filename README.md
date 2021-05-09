@@ -49,4 +49,14 @@ You can install [Android Studio Installation Guide](https://developer.android.co
 - Attractive Design – Practical
 <hr>
 
+##### Lecture 4
+
+- Android – Alert Dialog
+- Progress Bar
+- Image View
+- Radio Button and Check Box
+- Splash Screen – Practical
+<hr>
+
+
 
