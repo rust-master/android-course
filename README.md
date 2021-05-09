@@ -13,3 +13,17 @@ You can download [Android Studio](https://developer.android.com/studio)
  
 You can install [Android Studio Installation Guide](https://developer.android.com/studio/install)
 
+
+### Android Lecture
+
+##### Topics in lecture 1
+
+-Introduction – Android OS
+-Future of Android | Fuchsia OS
+-Why Android
+-Feature of Android
+-Android Applications
+-Requirements to Start
+-Environment Setup – Practical
+-First Project – Practical
+-Project Main Files
