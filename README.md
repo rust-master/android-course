@@ -14,7 +14,7 @@ You can download [Android Studio](https://developer.android.com/studio)
 You can install [Android Studio Installation Guide](https://developer.android.com/studio/install)
 
 
-## Android Lecture
+## Android Lectures
 
 ##### Lecture 1
 
@@ -68,7 +68,7 @@ You can install [Android Studio Installation Guide](https://developer.android.co
 - Count Down App – Practical
 <hr>
 
-##### Lecture 5
+##### Lecture 6
 
 - Spinner
 - ScrollView
