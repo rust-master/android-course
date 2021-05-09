@@ -59,4 +59,15 @@ You can install [Android Studio Installation Guide](https://developer.android.co
 <hr>
 
 
+##### Lecture 5
+
+- WebView
+- Input Validation
+- Animations
+- Screen Orientation
+- Count Down App – Practical
+<hr>
+
+
+
 
