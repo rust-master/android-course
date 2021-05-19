@@ -74,3 +74,10 @@ You can install [Android Studio Installation Guide](https://developer.android.co
 - ScrollView
 - SearchView
 - SearchView – Practical
+<hr>
+
+##### Lecture 7
+
+- Shared Preferences
+- Snackbar
+- Custom Fonts
