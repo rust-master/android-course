@@ -76,7 +76,7 @@ You can install [Android Studio Installation Guide](https://developer.android.co
 - SearchView – Practical
 <hr>
 
-##### Lecture 7
+##### <a href="https://github.com/Zaryab-Programmer/android-course/blob/master/app/src/main/java/com/mitiapps/loginapplecture1/SharedPrefrenceActivity.java">Lecture 7</a>
 
 - Shared Preferences
 - Snackbar
