@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SharedPrefrenceActivity">
+
+    <TextView
+        android:id="@+id/label"
+        android:textColor="@color/teal_200"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="Shared Pref Screen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:layout_below="@+id/label"
+        android:id="@+id/edtEmail"
+        android:hint="Email"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/edtName"
+        android:hint="Name"
+        android:layout_below="@+id/edtEmail"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+
+    <Button
+        android:layout_below="@id/edtName"
+        android:id="@+id/btnShared"
+        android:textSize="20sp"
+        android:textAllCaps="false"
+        android:text="Save to Shared Preference"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card"
+        android:layout_margin="20dp"
+        android:elevation="10dp"
+        app:cardElevation="10dp"
+        app:cardCornerRadius="20dp"
+        android:layout_below="@+id/btnShared"
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_margin="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/tvEmail"
+                android:text="Email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+            <TextView
+                android:id="@+id/tvName"
+                android:layout_marginTop="10dp"
+                android:text="Name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+
+
+
+    </androidx.cardview.widget.CardView>
+
+    <Button
+        android:layout_below="@id/card"
+        android:id="@+id/btnShow"
+        android:textSize="20sp"
+        android:textAllCaps="false"
+        android:text="Show Data"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+
+
+
+</RelativeLayout>
