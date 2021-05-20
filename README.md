@@ -85,8 +85,7 @@ You can install [Android Studio Installation Guide](https://developer.android.co
 
 ##### Lecture 8
 
-- Spinner
-- ScrollView
-- SearchView
-- SearchView – Practical
-
+- Android Google AdMob
+- Banner ads
+- Interstitial ads
+- Ads Practical
