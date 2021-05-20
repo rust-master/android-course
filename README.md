@@ -81,3 +81,12 @@ You can install [Android Studio Installation Guide](https://developer.android.co
 - Shared Preferences
 - Snackbar
 - Custom Fonts
+<hr>
+
+##### Lecture 8
+
+- Spinner
+- ScrollView
+- SearchView
+- SearchView – Practical
+
