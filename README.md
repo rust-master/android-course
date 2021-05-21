@@ -93,5 +93,5 @@ You can install [Android Studio Installation Guide](https://developer.android.co
 
 ##### Lecture 9
 
-RecyclerView
-Implementation of RecyclerView
+- RecyclerView
+- Implementation of RecyclerView
