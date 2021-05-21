@@ -89,3 +89,12 @@ You can install [Android Studio Installation Guide](https://developer.android.co
 - Banner ads
 - Interstitial ads
 - Ads Practical
+<hr>
+
+##### Lecture 9
+
+- Android Google AdMob
+- Banner ads
+- Interstitial ads
+- Ads Practical
+
