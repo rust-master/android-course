@@ -93,8 +93,5 @@ You can install [Android Studio Installation Guide](https://developer.android.co
 
 ##### Lecture 9
 
-- Android Google AdMob
-- Banner ads
-- Interstitial ads
-- Ads Practical
-
+RecyclerView
+Implementation of RecyclerView
