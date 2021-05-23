@@ -5,6 +5,8 @@
 
 You can learn more in the [Android](https://developer.android.com/).
 
+You can learn more in the [Firebase](https://firebase.google.com/docs).
+
 ### Android Studio
 
 You can download [Android Studio](https://developer.android.com/studio)
