@@ -95,3 +95,10 @@ You can install [Android Studio Installation Guide](https://developer.android.co
 
 - RecyclerView
 - Implementation of RecyclerView
+<hr>
+
+##### Lecture 10
+
+- RecyclerView
+- Implementation of RecyclerView
+
