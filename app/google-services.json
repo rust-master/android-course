@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832224088775",
+    "project_id": "android-course-28c55",
+    "storage_bucket": "android-course-28c55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832224088775:android:5428bd9c1bb92b700664e2",
+        "android_client_info": {
+          "package_name": "com.mitiapps.loginapplecture1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832224088775-iui4dd8b7qjfgqliecdv0un5ngq24vfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSGblyUMBugdmFka6mW36POfPwI4w9w0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832224088775-iui4dd8b7qjfgqliecdv0un5ngq24vfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
