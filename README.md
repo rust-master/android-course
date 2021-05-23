@@ -109,7 +109,7 @@ You can install [Android Studio Installation Guide](https://developer.android.co
 
 Dependency for Firebase Authentication
 ```
-sadas
+   implementation 'com.google.firebase:firebase-auth:21.0.1'
 ```
 
 
