@@ -107,4 +107,9 @@ You can install [Android Studio Installation Guide](https://developer.android.co
 - Firebase Console
 - Authentication - Practical
 
+Dependency for Firebase Authentication
+```
+sadas
+```
+
 
