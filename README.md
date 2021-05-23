@@ -99,6 +99,10 @@ You can install [Android Studio Installation Guide](https://developer.android.co
 
 ##### Lecture 10
 
-- RecyclerView
-- Implementation of RecyclerView
+- Firebase
+- Firebase Products
+- Firebase Authentication
+- Firebase Console
+- Authentication - Practical
+
 
