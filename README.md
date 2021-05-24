@@ -58,6 +58,18 @@ You can install [Android Studio Installation Guide](https://developer.android.co
 - Image View
 - Radio Button and Check Box
 - Splash Screen – Practical
+
+##### Splash Screen Code
+```
+        new Handler().postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                Intent intent = new Intent(SplashScreen.this, MainActivity.class);
+                startActivity(intent);
+                finish();
+            }
+        }, 2000);
+```
 <hr>
 
 
