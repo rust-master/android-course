@@ -59,7 +59,7 @@ You can install [Android Studio Installation Guide](https://developer.android.co
 - Radio Button and Check Box
 - Splash Screen – Practical
 
-##### Splash Screen Code
+Splash Screen Java Code
 ```
         new Handler().postDelayed(new Runnable() {
             @Override
