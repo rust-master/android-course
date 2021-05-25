@@ -123,5 +123,3 @@ Dependency for Firebase Authentication
 ```
    implementation 'com.google.firebase:firebase-auth:21.0.1'
 ```
-
-
