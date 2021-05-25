@@ -111,7 +111,7 @@ Splash Screen Java Code
 - Implementation of RecyclerView
 <hr>
 
-##### Lecture 10
+##### <a href="https://github.com/Zaryab-Programmer/android-course/blob/master/app/src/main/java/com/mitiapps/loginapplecture1/FirebaseAuthActivity.java">Lecture 10</a>
 
 - Firebase
 - Firebase Products
