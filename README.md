@@ -130,4 +130,8 @@ Dependency for Firebase Authentication
 - Firebase Realtime Database
 - Structure
 - Realtime Database - Practical
-<hr>
+- 
+Dependency for Firebase Realtime Database
+```
+   implementation 'com.google.firebase:firebase-database'
+```
