@@ -123,3 +123,11 @@ Dependency for Firebase Authentication
 ```
    implementation 'com.google.firebase:firebase-auth:21.0.1'
 ```
+<hr>
+
+##### Lecture 11
+
+- Firebase Realtime Database
+- Structure
+- Realtime Database - Practical
+<hr>
