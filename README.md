@@ -130,7 +130,7 @@ Dependency for Firebase Authentication
 - Firebase Realtime Database
 - Structure
 - Realtime Database - Practical
-- 
+
 Dependency for Firebase Realtime Database
 ```
    implementation 'com.google.firebase:firebase-database'
@@ -139,10 +139,10 @@ Dependency for Firebase Realtime Database
 
 ##### Lecture 12
 
-- Firebase Realtime Database
-- Structure
+- Read Data from Firebase Database
+- Firebase Cloud Messaging
 - Realtime Database - Practical
-- 
+
 Dependency for Firebase Cloud Messaging
 ```
    implementation 'com.google.firebase:firebase-messaging'
