@@ -143,8 +143,8 @@ Dependency for Firebase Realtime Database
 - Structure
 - Realtime Database - Practical
 - 
-Dependency for Firebase Cloud Messanging
+Dependency for Firebase Cloud Messaging
 ```
-   implementation 'com.google.firebase:firebase-database'
+   implementation 'com.google.firebase:firebase-messaging'
 ```
 
