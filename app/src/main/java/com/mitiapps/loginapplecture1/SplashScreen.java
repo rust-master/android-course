@@ -17,7 +17,7 @@ public class SplashScreen extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent intent = new Intent(SplashScreen.this, FirebaseAuthActivity.class);
+                Intent intent = new Intent(SplashScreen.this, ReadActivity.class);
                 startActivity(intent);
                 finish();
             }
