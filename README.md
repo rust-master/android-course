@@ -135,3 +135,16 @@ Dependency for Firebase Realtime Database
 ```
    implementation 'com.google.firebase:firebase-database'
 ```
+<hr>
+
+##### Lecture 12
+
+- Firebase Realtime Database
+- Structure
+- Realtime Database - Practical
+- 
+Dependency for Firebase Cloud Messanging
+```
+   implementation 'com.google.firebase:firebase-database'
+```
+
