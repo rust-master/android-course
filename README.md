@@ -158,7 +158,7 @@ Dependency for Firebase Cloud Messaging
 - Why use Picasso
 - Picasso - Practical
 
-Dependency for Firebase Cloud Messaging
+Dependency for Picasso
 ```
    implementation 'com.squareup.picasso:picasso:(insert latest version)'
 
