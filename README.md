@@ -152,9 +152,11 @@ Dependency for Firebase Cloud Messaging
 
 ##### Lecture 13
 
-- Read Data from Firebase Database
-- Firebase Cloud Messaging
-- Realtime Database - Practical
+- Picasso
+- Image Transformations
+- Place Holders
+- Why use Picasso
+- Picasso - Practical
 
 Dependency for Firebase Cloud Messaging
 ```
