@@ -148,3 +148,16 @@ Dependency for Firebase Cloud Messaging
    implementation 'com.google.firebase:firebase-messaging'
 ```
 
+<hr>
+
+##### Lecture 13
+
+- Read Data from Firebase Database
+- Firebase Cloud Messaging
+- Realtime Database - Practical
+
+Dependency for Firebase Cloud Messaging
+```
+   implementation 'com.google.firebase:firebase-messaging'
+```
+
