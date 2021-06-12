@@ -48,6 +48,7 @@ public class ReadActivity extends AppCompatActivity {
         reference.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot snapshot) {
+
                 UsersInfoModel model = snapshot.getValue(UsersInfoModel.class);
 
                 name.setText(model.getName());
