@@ -55,7 +55,7 @@ public class FirebaseAuthActivity extends AppCompatActivity {
                         if(task.isSuccessful()){
                             // Insert Code
                             Uid = auth.getCurrentUser().getUid();
-                            UsersInfoModel model = new UsersInfoModel(email,name);
+                            UsersInfoModel model = new UsersInfoModel(email,name,"null");
                             reference.child(Uid).setValue(model);
 
                             Toast.makeText(FirebaseAuthActivity.this, "Signup Success", Toast.LENGTH_SHORT).show();
