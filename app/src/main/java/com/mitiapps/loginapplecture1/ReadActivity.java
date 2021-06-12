@@ -1,6 +1,7 @@
 package com.mitiapps.loginapplecture1;
 
 import android.os.Bundle;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
@@ -13,10 +14,12 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 import com.mitiapps.loginapplecture1.Model.UsersInfoModel;
+import com.squareup.picasso.Picasso;
 
 public class ReadActivity extends AppCompatActivity {
 
     TextView name, email;
+    ImageView imagView,imagView1;
     FirebaseDatabase database;
     DatabaseReference reference;
     FirebaseAuth auth;
@@ -35,7 +38,9 @@ public class ReadActivity extends AppCompatActivity {
 
         name = findViewById(R.id.name);
         email = findViewById(R.id.email);
-        
+        imagView = findViewById(R.id.imagView);
+        imagView1 = findViewById(R.id.imagView1);
+
         loadData();
     }
 
@@ -47,6 +52,9 @@ public class ReadActivity extends AppCompatActivity {
 
                 name.setText(model.getName());
                 email.setText(model.getEmail());
+
+                Picasso.with(getApplicationContext()).load(model.getImage()).into(imagView);
+                Picasso.with(getApplicationContext()).load(model.getImg()).into(imagView1);
             }
 
             @Override

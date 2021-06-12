@@ -1,14 +1,19 @@
 package com.mitiapps.loginapplecture1.Model;
 
 public class UsersInfoModel {
-    String Email,Name;
+    String Email,Name,img,image;
 
     public UsersInfoModel() {
     }
 
-    public UsersInfoModel(String email, String name) {
+    public UsersInfoModel(String email, String name, String image) {
         Email = email;
         Name = name;
+        this.image = image;
+    }
+
+    public String getImg() {
+        return img;
     }
 
     public String getEmail() {
@@ -25,5 +30,13 @@ public class UsersInfoModel {
 
     public void setName(String name) {
         Name = name;
+    }
+
+    public String getImage() {
+        return image;
+    }
+
+    public void setImage(String image) {
+        this.image = image;
     }
 }
