@@ -147,7 +147,6 @@ Dependency for Firebase Cloud Messaging
 ```
    implementation 'com.google.firebase:firebase-messaging'
 ```
-
 <hr>
 
 ##### Lecture 13
@@ -164,4 +163,13 @@ Dependency for Picasso
 
 ```
 ![image](https://user-images.githubusercontent.com/43227117/121642040-681dcf80-caa9-11eb-899e-ac74aad5a38c.png)
+<hr>
+
+##### Lecture 14
+
+- Picasso
+- Image Transformations
+- Place Holders
+- Why use Picasso
+- Picasso - Practical
 
