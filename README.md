@@ -179,7 +179,6 @@ Dependency for Picasso
 
 Dependency for Picasso
 ```
-   implementation 'com.squareup.picasso:picasso:(insert latest version)'
-
+   implementation 'com.firebaseui:firebase-ui-database:1.2.0'
 ```
 
