@@ -167,9 +167,14 @@ Dependency for Picasso
 
 ##### Lecture 14
 
+- Mini Project
+- News Feed App
 - Picasso
-- Image Transformations
-- Place Holders
+- Custom Layouts
+- Recycler
+- FirebaseRecyclerAdapter
+- Model
+- ViewHolder
 - Why use Picasso
-- Picasso - Practical
+- App - Practical
 
