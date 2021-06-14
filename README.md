@@ -175,6 +175,5 @@ Dependency for Picasso
 - FirebaseRecyclerAdapter
 - Model
 - ViewHolder
-- Why use Picasso
 - App - Practical
 
