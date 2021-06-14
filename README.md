@@ -171,9 +171,9 @@ Dependency for Picasso
 - News Feed App
 - Picasso
 - Custom Layouts
-- Recycler
+- RecyclerView
 - FirebaseRecyclerAdapter
-- Model
-- ViewHolder
+- Model classes
+- ViewHolders
 - App - Practical
 
