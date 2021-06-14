@@ -177,3 +177,9 @@ Dependency for Picasso
 - ViewHolders
 - App - Practical
 
+Dependency for Picasso
+```
+   implementation 'com.squareup.picasso:picasso:(insert latest version)'
+
+```
+
