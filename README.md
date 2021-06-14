@@ -177,7 +177,7 @@ Dependency for Picasso
 - ViewHolders
 - App - Practical
 
-Dependency for Picasso
+Dependency for FirebaseRecyclerAdapter
 ```
    implementation 'com.firebaseui:firebase-ui-database:1.2.0'
 ```
