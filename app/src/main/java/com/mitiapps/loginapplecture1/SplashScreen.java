@@ -7,6 +7,8 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.os.Handler;
 
+import com.mitiapps.loginapplecture1.MiniProject.CUIActivity;
+
 public class SplashScreen extends AppCompatActivity {
 
     @Override
@@ -17,7 +19,7 @@ public class SplashScreen extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent intent = new Intent(SplashScreen.this, NewsFeedActivity.class);
+                Intent intent = new Intent(SplashScreen.this, CUIActivity.class);
                 startActivity(intent);
                 finish();
             }

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/newsFeed"
+        android:title="News Feed"
+        android:icon="@drawable/ic_calendar"
+        />
+
+    <item
+        android:id="@+id/cuOnline"
+        android:title="CU Online"
+        android:icon="@drawable/ic_today"
+        />
+    <item
+        android:id="@+id/timeTable"
+        android:title="Time Table"
+        android:icon="@drawable/ic_settings"
+        />
+
+</menu>

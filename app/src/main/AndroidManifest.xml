@@ -11,7 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.LoginAppLecture1">
-        <activity android:name=".NewsFeedActivity"></activity>
+        <activity android:name=".MiniProject.CUIActivity"></activity>
+        <activity android:name=".NewsFeedActivity" />
         <activity android:name=".ReadActivity" />
         <activity android:name=".FirebaseAuthActivity" />
         <activity android:name=".RecyclerViewActivity" />
