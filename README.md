@@ -181,4 +181,9 @@ Dependency for FirebaseRecyclerAdapter
 ```
    implementation 'com.firebaseui:firebase-ui-database:1.2.0'
 ```
+<hr>
 
+##### <a href="https://github.com/Zaryab-Programmer/android-course/blob/master/app/src/main/java/com/mitiapps/loginapplecture1/NewsFeedActivity.java">Lecture 15</a>
+
+- RecyclerView
+- Implementation of RecyclerView
