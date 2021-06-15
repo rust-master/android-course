@@ -185,5 +185,5 @@ Dependency for FirebaseRecyclerAdapter
 
 ##### <a href="https://github.com/Zaryab-Programmer/android-course/blob/master/app/src/main/java/com/mitiapps/loginapplecture1/NewsFeedActivity.java">Lecture 15</a>
 
-- RecyclerView
-- Implementation of RecyclerView
+- Fragments
+- Fragments - Practical
