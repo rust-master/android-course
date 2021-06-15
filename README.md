@@ -1,5 +1,5 @@
 # Android Course
-##### Android course work for students from Lecture 1 to Lecture 14
+##### Android course work for students from Lecture 1 to Lecture 15
 
 ## Learn More
 
