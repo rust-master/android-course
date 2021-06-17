@@ -189,7 +189,7 @@ Dependency for FirebaseRecyclerAdapter
 - Fragments - Practical
 <hr>
 
-##### Lecture 16
+##### <a href="https://github.com/Zaryab-Programmer/android-course/tree/master/app/src/main/java/com/mitiapps/loginapplecture1/MiniProject">Lecture 16</a>
 
 - News Feed
 - News Feed - Practical
