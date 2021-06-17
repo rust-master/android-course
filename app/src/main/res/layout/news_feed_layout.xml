@@ -11,13 +11,31 @@
         android:layout_margin="10dp"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-
-        <ImageView
-            android:src="@drawable/download"
-            android:id="@+id/imageNews"
-            android:scaleType="fitXY"
+        <RelativeLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"/>
+            android:layout_height="match_parent">
+
+
+            <ImageView
+                android:src="@drawable/download"
+                android:id="@+id/imageNews"
+                android:scaleType="fitXY"
+                android:layout_width="match_parent"
+                android:layout_height="420dp"/>
+
+            <TextView
+                android:id="@+id/newsText"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="12dp"
+                android:layout_below="@+id/imageNews"
+                android:textSize="22sp"
+                android:text="News"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+        </RelativeLayout>
+
 
     </androidx.cardview.widget.CardView>
 
