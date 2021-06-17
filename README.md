@@ -1,5 +1,5 @@
 # Android Course
-##### Android course work for students from Lecture 1 to Lecture 14
+##### Android course work for students from Lecture 1 to Lecture 15
 
 ## Learn More
 
@@ -181,4 +181,9 @@ Dependency for FirebaseRecyclerAdapter
 ```
    implementation 'com.firebaseui:firebase-ui-database:1.2.0'
 ```
+<hr>
 
+##### <a href="https://github.com/Zaryab-Programmer/android-course/tree/master/app/src/main/java/com/mitiapps/loginapplecture1/MiniProject">Lecture 15</a>
+
+- Fragments
+- Fragments - Practical
