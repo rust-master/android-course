@@ -185,13 +185,13 @@ Dependency for FirebaseRecyclerAdapter
 
 ##### <a href="https://github.com/Zaryab-Programmer/android-course/tree/master/app/src/main/java/com/mitiapps/loginapplecture1/MiniProject">Lecture 15</a>
 
-- - Mini Project - Part 2
+- Mini Project - Part 2
 - Fragments
 - Fragments - Practical
 <hr>
 
 ##### <a href="https://github.com/Zaryab-Programmer/android-course/blob/master/app/src/main/java/com/mitiapps/loginapplecture1/MiniProject/ui/NewsFeedFragment.java">Lecture 16</a>
 
-- - Mini Project - Part 3
+- Mini Project - Part 3
 - News Feed
 - News Feed - Practical
