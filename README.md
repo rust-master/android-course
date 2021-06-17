@@ -191,5 +191,5 @@ Dependency for FirebaseRecyclerAdapter
 
 ##### Lecture 16
 
-- Fragments
-- Fragments - Practical
+- News Feed
+- News Feed - Practical
