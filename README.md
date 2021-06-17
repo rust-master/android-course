@@ -187,3 +187,9 @@ Dependency for FirebaseRecyclerAdapter
 
 - Fragments
 - Fragments - Practical
+<hr>
+
+##### Lecture 16
+
+- Fragments
+- Fragments - Practical
