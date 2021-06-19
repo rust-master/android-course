@@ -90,7 +90,7 @@ Splash Screen Java Code
 - SearchView – Practical
 <hr>
 
-##### <a href="https://github.com/Zaryab-Programmer/android-course/blob/master/app/src/main/java/com/mitiapps/loginapplecture1/SharedPrefrenceActivity.java" target="_blank">Lecture 7</a>
+##### <a href="https://github.com/Zaryab-Programmer/android-course/blob/master/app/src/main/java/com/mitiapps/loginapplecture1/SharedPrefrenceActivity.java">Lecture 7</a>
 
 - Shared Preferences
 - Snackbar
@@ -111,7 +111,7 @@ Splash Screen Java Code
 - Implementation of RecyclerView
 <hr>
 
-##### <a href="https://github.com/Zaryab-Programmer/android-course/blob/master/app/src/main/java/com/mitiapps/loginapplecture1/FirebaseAuthActivity.java" target="_blank">Lecture 10</a>
+##### <a href="https://github.com/Zaryab-Programmer/android-course/blob/master/app/src/main/java/com/mitiapps/loginapplecture1/FirebaseAuthActivity.java">Lecture 10</a>
 
 - Firebase
 - Firebase Products
@@ -165,7 +165,7 @@ Dependency for Picasso
 ![image](https://user-images.githubusercontent.com/43227117/121642040-681dcf80-caa9-11eb-899e-ac74aad5a38c.png)
 <hr>
 
-##### <a href="https://github.com/Zaryab-Programmer/android-course/blob/master/app/src/main/java/com/mitiapps/loginapplecture1/NewsFeedActivity.java" target="_blank">Lecture 14</a>
+##### <a href="https://github.com/Zaryab-Programmer/android-course/blob/master/app/src/main/java/com/mitiapps/loginapplecture1/NewsFeedActivity.java" >Lecture 14</a>
 
 - Mini Project - Part 1
 - News Feed App
@@ -183,14 +183,14 @@ Dependency for FirebaseRecyclerAdapter
 ```
 <hr>
 
-##### <a href="https://github.com/Zaryab-Programmer/android-course/tree/master/app/src/main/java/com/mitiapps/loginapplecture1/MiniProject" target="_blank">Lecture 15</a>
+##### <a href="https://github.com/Zaryab-Programmer/android-course/tree/master/app/src/main/java/com/mitiapps/loginapplecture1/MiniProject" >Lecture 15</a>
 
 - Mini Project - Part 2
 - Fragments
 - Fragments - Practical
 <hr>
 
-##### <a href="https://github.com/Zaryab-Programmer/android-course/blob/master/app/src/main/java/com/mitiapps/loginapplecture1/MiniProject/ui/NewsFeedFragment.java" target="_blank">Lecture 16</a>
+##### <a href="https://github.com/Zaryab-Programmer/android-course/blob/master/app/src/main/java/com/mitiapps/loginapplecture1/MiniProject/ui/NewsFeedFragment.java" >Lecture 16</a>
 
 - Mini Project - Part 3
 - News Feed
