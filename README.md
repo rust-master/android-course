@@ -165,7 +165,7 @@ Dependency for Picasso
 ![image](https://user-images.githubusercontent.com/43227117/121642040-681dcf80-caa9-11eb-899e-ac74aad5a38c.png)
 <hr>
 
-##### <a href="https://github.com/Zaryab-Programmer/android-course/blob/master/app/src/main/java/com/mitiapps/loginapplecture1/NewsFeedActivity.java">Lecture 14</a>
+##### <a href="https://github.com/Zaryab-Programmer/android-course/blob/master/app/src/main/java/com/mitiapps/loginapplecture1/NewsFeedActivity.java" target="_blank">Lecture 14</a>
 
 - Mini Project - Part 1
 - News Feed App
