@@ -190,7 +190,7 @@ Dependency for FirebaseRecyclerAdapter
 - Fragments - Practical
 <hr>
 
-##### <a href="https://github.com/Zaryab-Programmer/android-course/blob/master/app/src/main/java/com/mitiapps/loginapplecture1/MiniProject/ui/NewsFeedFragment.java">Lecture 16</a>
+##### <a href="https://github.com/Zaryab-Programmer/android-course/blob/master/app/src/main/java/com/mitiapps/loginapplecture1/MiniProject/ui/NewsFeedFragment.java" target="_blank">Lecture 16</a>
 
 - Mini Project - Part 3
 - News Feed
