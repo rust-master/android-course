@@ -183,7 +183,7 @@ Dependency for FirebaseRecyclerAdapter
 ```
 <hr>
 
-##### <a href="https://github.com/Zaryab-Programmer/android-course/tree/master/app/src/main/java/com/mitiapps/loginapplecture1/MiniProject">Lecture 15</a>
+##### <a href="https://github.com/Zaryab-Programmer/android-course/tree/master/app/src/main/java/com/mitiapps/loginapplecture1/MiniProject" target="_blank">Lecture 15</a>
 
 - Mini Project - Part 2
 - Fragments
