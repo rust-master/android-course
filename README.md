@@ -90,7 +90,7 @@ Splash Screen Java Code
 - SearchView – Practical
 <hr>
 
-##### <a href="https://github.com/Zaryab-Programmer/android-course/blob/master/app/src/main/java/com/mitiapps/loginapplecture1/SharedPrefrenceActivity.java">Lecture 7</a>
+##### <a href="https://github.com/Zaryab-Programmer/android-course/blob/master/app/src/main/java/com/mitiapps/loginapplecture1/SharedPrefrenceActivity.java" target="_blank">Lecture 7</a>
 
 - Shared Preferences
 - Snackbar
