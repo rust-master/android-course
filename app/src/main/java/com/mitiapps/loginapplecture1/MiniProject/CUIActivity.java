@@ -12,6 +12,7 @@ import android.view.MenuItem;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.mitiapps.loginapplecture1.MiniProject.ui.CUOnlineFragment;
 import com.mitiapps.loginapplecture1.MiniProject.ui.NewsFeedFragment;
+import com.mitiapps.loginapplecture1.MiniProject.ui.TimeTableFragment;
 import com.mitiapps.loginapplecture1.R;
 
 public class CUIActivity extends AppCompatActivity {
@@ -42,6 +43,11 @@ public class CUIActivity extends AppCompatActivity {
                 else if(item.getItemId() == R.id.cuOnline){
                     fragment = new CUOnlineFragment();
                     toolbar.setTitle("CU Online");
+                    updateFragment(fragment);
+                }
+                else if(item.getItemId() == R.id.timeTable){
+                    fragment = new TimeTableFragment();
+                    toolbar.setTitle("Time Table");
                     updateFragment(fragment);
                 }
                 return false;
